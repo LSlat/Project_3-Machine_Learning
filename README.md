@@ -1,4 +1,4 @@
-# Project_3-Machine_Learning
+# Project_3-Machine_Learning (3 person team)
 ### New York City Air Bed and Breakfasts 
 Machine Learning, linear regression - Lasso, Ridge and Elastic Net models
  - Presentation: New York City Airbnb.pptx
